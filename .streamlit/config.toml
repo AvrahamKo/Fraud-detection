@@ -1,0 +1,11 @@
+# Forces the corporate light theme regardless of the viewer's OS setting.
+[theme]
+base = "light"
+primaryColor = "#1F3B63"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F7FA"
+textColor = "#33415C"
+font = "sans serif"
+
+[server]
+headless = true
